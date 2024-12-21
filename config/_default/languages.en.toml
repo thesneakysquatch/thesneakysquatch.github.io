@@ -32,7 +32,7 @@ title = "Greg's Place"
 #     { dev = "https://dev.to/username" },
      { discord = "https://discord.com/users/877529484083998751" },
 #     { dribbble = "https://dribbble.com/username" },
-     { facebook = "https://facebook.com/sneakysquatch" },
+     { facebook = "https://facebook.com/thesneakysquatch" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
      { github = "https://github.com/thesneakysquatch" },
@@ -67,7 +67,7 @@ title = "Greg's Place"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
      { whatsapp = "https://wa.me/+12064882148" },
-#     { youtube = "https://youtube.com/username" },
+     { youtube = "https://youtube.com/@thesneakysquatch" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
    ]
