@@ -160,7 +160,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # bing = ""
   # pinterest = ""
   # yandex = ""
-   fediverse = "@thesneakysquatch@mastodon.social"
+   fediverse = "@sasquatch@4d2.social"
 
 [rssnext]
   # feedId = ""
